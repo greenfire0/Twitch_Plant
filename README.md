@@ -13,7 +13,7 @@ Before running the bot, ensure you have the following installed:
 ## 🌿 **Hardware Setup**
 
 1. Connect your Arduino board to your computer using a USB cable.
-2. Connect a water pump or any watering mechanism to one of the digital pins of the Arduino board. I used pin A1 but it can be changed in the arduino code.
+2. Connect a water pump or any watering mechanism to one of the digital pins of the Arduino board, this is represented by M1 in the circuit diagram. I used pin A1 but it can be changed in the arduino code.
 
 ## ⚙️ **Arduino Setup**
 
